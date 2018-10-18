@@ -1,0 +1,11 @@
+C:\Users\Lagash\Desktop\Lagash University\exercises\third week\second class\exercises 1\ExampleAttributes\bin\Debug\netcoreapp2.0\ExampleAttributes.deps.json
+C:\Users\Lagash\Desktop\Lagash University\exercises\third week\second class\exercises 1\ExampleAttributes\bin\Debug\netcoreapp2.0\ExampleAttributes.runtimeconfig.json
+C:\Users\Lagash\Desktop\Lagash University\exercises\third week\second class\exercises 1\ExampleAttributes\bin\Debug\netcoreapp2.0\ExampleAttributes.runtimeconfig.dev.json
+C:\Users\Lagash\Desktop\Lagash University\exercises\third week\second class\exercises 1\ExampleAttributes\bin\Debug\netcoreapp2.0\ExampleAttributes.dll
+C:\Users\Lagash\Desktop\Lagash University\exercises\third week\second class\exercises 1\ExampleAttributes\bin\Debug\netcoreapp2.0\ExampleAttributes.pdb
+C:\Users\Lagash\Desktop\Lagash University\exercises\third week\second class\exercises 1\ExampleAttributes\obj\Debug\netcoreapp2.0\ExampleAttributes.csprojAssemblyReference.cache
+C:\Users\Lagash\Desktop\Lagash University\exercises\third week\second class\exercises 1\ExampleAttributes\obj\Debug\netcoreapp2.0\ExampleAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Lagash\Desktop\Lagash University\exercises\third week\second class\exercises 1\ExampleAttributes\obj\Debug\netcoreapp2.0\ExampleAttributes.AssemblyInfoInputs.cache
+C:\Users\Lagash\Desktop\Lagash University\exercises\third week\second class\exercises 1\ExampleAttributes\obj\Debug\netcoreapp2.0\ExampleAttributes.AssemblyInfo.cs
+C:\Users\Lagash\Desktop\Lagash University\exercises\third week\second class\exercises 1\ExampleAttributes\obj\Debug\netcoreapp2.0\ExampleAttributes.dll
+C:\Users\Lagash\Desktop\Lagash University\exercises\third week\second class\exercises 1\ExampleAttributes\obj\Debug\netcoreapp2.0\ExampleAttributes.pdb
